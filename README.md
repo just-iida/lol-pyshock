@@ -1,5 +1,5 @@
 # ⚡ LoL-PyShock
-LoL-PyShock currently serves one function: shocking you when you die in League of Legends. It is the successor of LoL-PiShock, this time with a GUI and a cleaner codebase with better comments.
+LoL-PyShock currently serves one function: shocking you when you die in League of Legends. It is the successor of [LoL-PiShock](https://github.com/just-iida/lol-pishock/), this time with a GUI and a cleaner codebase with better comments.
 <br></br>
 I am still busy with my studies and cannot promise consistent updates, if something breaks I can probably have the time to fix it, but beyond that it's up to my schedule and free time.
 <br></br>
