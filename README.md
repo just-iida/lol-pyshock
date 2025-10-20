@@ -28,7 +28,7 @@ Giving money is completely optional and has the only purpose of motivating me to
 * ``git clone https://github.com/just-iida/lol-pyshock.git``
 * ``pip install -r requirements.txt``
 ### Setup
-Download and run the [latest executable](github.com/just-iida/lol-pyshock/releases/latest)
+Download and run the [latest executable](https://github.com/just-iida/lol-pyshock/releases/latest)
 
 #### Alternative
 * Run ``py .\lol_pyshock.py``
