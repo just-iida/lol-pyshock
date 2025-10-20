@@ -28,6 +28,9 @@ Giving money is completely optional and has the only purpose of motivating me to
 * ``git clone https://github.com/just-iida/lol-pyshock.git``
 * ``pip install -r requirements.txt``
 ### Setup
+Download and run the [latest executable](github.com/just-iida/lol-pyshock/releases/latest)
+
+#### Alternative
 * Run ``py .\lol_pyshock.py``
 * Generate an API Key at https://pishock.com/#/account
 * Get the device code at https://pishock.com/#/control, by clicking Share on your specific shocker and clicking **+ CODE**
